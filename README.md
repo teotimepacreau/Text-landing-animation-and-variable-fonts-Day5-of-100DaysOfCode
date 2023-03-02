@@ -3,6 +3,7 @@
 
 # Project goal
 - word / line animation coming from bottom with opacity handle with GSAP fundamentals
+- body onload to trigger animation
 - variable font discovery
 - smooth transition playing with the weight of the font and the color on title
 - Mouse follower with "Cuberto Mouse Follower" lib
